@@ -27,6 +27,13 @@ Projeto | Tema |Histórico|
 |Projetos Acadêmicos - Fatec | Logística - Análise de Dados | [Ver Projetos]() | 
 
 
+### 📸 DuoElo Fotografia
+
+DuoElo é um projeto de empreendedorismo desenvolvido em conjunto com minha sócia, voltado à fotografia de eventos e produção de conteúdo visual.
+
+Além da operação fotográfica, o projeto envolve a aplicação de conceitos de gestão, análise de dados, indicadores e otimização de processos para apoiar a tomada de decisões do negócio.
+
+
 ### Contato
 
 <a href="https://www.linkedin.com/in/diego-marabini/"><img style="border-radius: 50%;" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width="40px;" alt=""/></a><a href="https://wa.link/rwppel"><img style="border-radius: 50%;" src="https://www.pngall.com/wp-content/uploads/13/Whatsapp-Logo-Transparent.png" width="77px;" alt=""/></a> 
